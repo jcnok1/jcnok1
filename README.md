@@ -1,54 +1,64 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<h1 align="center">Olá 👋, sou Julio Okuda</h1>
+<h3 align="center">Sou formado em Administração de redes, com MBA em Ciência de Dados, Matemática Financeira e Estatística. Estou me especializando em Cloud Computing. Sou entusiasta de Data Science, Data Analytics, BI, Machine Learning, Data Engineering, tudo que envolve dados e entregou alguma solução.</h3>
 
-  <p align="left"> 
-  <h4 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Julio Okuda </h4></img> 
-
-  Sou formado em Administração de redes, com MBA em Ciência de Dados, Matemática Financeira e Estatística.
-
-  Estou me especializando em Cloud Computing. Sou entusiasta de Data Science, Data Analytics, BI, Machine Learning, Data Engineering, tudo que envolva dados e entregue alguma solução.
-  
-
-  <a href="https://www.credly.com/badges/41282a5b-4931-4be0-88ba-77a71be9e41e/public_url"><div style="display: inline_block"><br>
-  <img align="center" alt="jcnok-ai" title="AI-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/ai-azure.png?raw=true"></a>
-  <a href="https://www.credly.com/badges/764c3754-5e27-42c6-90af-5955910f4a82/public_url">
-  <img align="center" alt="jcnok-ai" title="DP-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/dp-azure.png?raw=true"></a><br>
-  </div>
-  
-  </p>
-
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="jcnok-python" title="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="jcnok-jupyter" title="jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-  <img align="center" alt="jcnok-mysql" title="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="jcnok-postgresql" title="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="jcnok-docker" title="docker"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/docker/docker-original.svg">
-  <img align="center" alt="jcnok-anaconda" title="anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="jcnok-git" title="git"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="jcnok-rstudio" title="rstudio"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
-  <img align="center" alt="jcnok-github" title="github"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="jcnok-heroku" title="heroku"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg">
-  <img align="center" alt="jcnok-pandas" title="pandas"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="jcnok-numpy" title="numpy"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-  <img align="center" alt="jcnok-vscode" title="vscode"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="jcnok-azure" title="azure"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="jcnok-aws" title="aws"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="jcnok-kaggle" title="kaggle"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg">
-  
+<h3 align="left"> Badges:</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/41282a5b-4931-4be0-88ba-77a71be9e41e/public_url">
+<div style="display: inline_block"><br>
+<img align="center" alt="jcnok-ai" title="AI-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/ai-azure.png?raw=true"></a>
+<a href="https://www.credly.com/badges/764c3754-5e27-42c6-90af-5955910f4a82/public_url">
+<img align="center" alt="jcnok-ai" title="DP-Azure" src="https://github.com/Jcnok/Jcnok/blob/main/badges/dp-azure.png?raw=true"></a><br>
 </div>
-<p></p>
+  
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcnok&label=Profile%20views&color=0e75b6&style=flat" alt="jcnok" /> </p>
+<a href="https://dev.to/jcnok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jcnok" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/juliookuda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliookuda" height="30" width="40" /></a>
+<a href="https://codesandbox.com/jcnok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="jcnok" height="30" width="40" /></a>
+<a href="https://hashnode.com/@jcnok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@jcnok" height="30" width="40" /></a>
+</p>
+
+
+<h3 align="left"> Linguagens e Ferramentas:</h3>
+<p align="left"> 
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width ="40" height="40"/></a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a> 
+<a href="https://git-scm.com/" target="_blank" rel=" noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
+<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg " alt="hadoop" width="40" height="40"/></a> 
+<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src= "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> 
+<a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" largura ="40" height="40"/></a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width ="40" height="40"/></a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
+<a href="https://opencv.org/" target="_blank" rel ="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
+<a href="https://www.postgresql.org" target="_blank" rel ="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height= "40"/></a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> 
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a> 
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a> 
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcnok&theme=tokyonight)
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jcnok&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcnok&theme=tokyonight)
 
+
+
 <h4 align="left">
+<p align="left"> 
+
 <details>
 <summary>Projetos...</summary>
-
+</p>
 </h4>
+
 <h4 align="left">
 <details>
 <summary>Trilha...</summary>
@@ -73,3 +83,8 @@ Curso|Produtor|Obs
 <details>
 <summary>Trilha2...</summary>
 </h4>
+<br>
+<a href="https://www.buymeacoffee.com/jcnok"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jcnok"/>
+</a> 
+<a href="https://ko-fi.com/jcnok"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="jcnok"/>
+</a> 
